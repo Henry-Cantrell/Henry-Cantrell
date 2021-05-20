@@ -1,6 +1,4 @@
-Hi, my name is Henry Cantrell.
-
-I'm a computer science student at the University of North Georgia, with an intended graduation date around 12/2022.
+Hi, my name is Henry Cantrell. I'm a computer science student at the University of North Georgia, with an intended graduation date around 12/2022.
 
 Computer science and software development has proven itself to be a burning personal passion that I deeply enjoy. 
 My interests within the field include web development and also expanding my knowledge by doing fun projects and networking with interesting people! I'm

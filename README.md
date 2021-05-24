@@ -2,7 +2,7 @@ Hi, my name is Henry Cantrell.
 
 I'm a computer science student at the University of North Georgia, with an intended graduation date around 12/2022. Also, I am in the process of completing an open-source web development tutorial called The Odin Project. See it for yourself here: https://www.theodinproject.com
 
-Computer science and software development has proven itself to be a burning passion for me that I deeply enjoy. 
+Computer science and software development have proven to be activities that I have a burning passion for. 
 My interests within the field include web development and also expanding my knowledge by doing fun projects and networking with interesting people! I'm
 always thinking of new stuff to work on, or upgrades I can make to older projects. Learning a new tool or a new way to do something
 I thought I already knew how to do never fails to make that 'lightbulb' light up in my brain.

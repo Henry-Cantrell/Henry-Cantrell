@@ -9,7 +9,7 @@ I thought I already knew how to do never fails to make that 'lightbulb' light up
 
 My LinkedIn can be found here: https://www.linkedin.com/in/henry-cantrell-29724918a/
 
-I can easily be reached through there, or via hencan.1997@gmail.com. Very open to employment/internship opportunities.
+I can easily be reached through there, or via hencan.1997@gmail.com. Open to any and all employment/internship opportunities.
 
 <!---
 Henry-Cantrell/Henry-Cantrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

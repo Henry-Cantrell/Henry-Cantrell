@@ -1,4 +1,4 @@
-Hi, my name is Henry Cantrell. I consider myself a web development enthusiast!
+Hi, my name is Henry Cantrell. I consider myself a web development enthusiast and an aspiring professional in that field!
 
 I'm also a computer science student at the University of North Georgia, with an intended graduation date around 12/2022. 
 

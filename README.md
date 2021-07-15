@@ -1,6 +1,6 @@
 Hi, my name is Henry Cantrell. I'm also a computer science student at the University of North Georgia, with an intended graduation date around 12/2022. 
 
-I also consider myself a web development enthusiast and an aspiring professional in that field! My current competencies, as reflected in my projects, are in:
+I also consider myself a web development enthusiast and an aspiring professional in that field! My current skills, as reflected in my projects, are in:
 
 + Ruby/Rails
 + Node/Express

@@ -14,9 +14,9 @@ I thought I already knew how to do never fails to make that 'lightbulb' light up
 
 My LinkedIn can be found here: https://www.linkedin.com/in/henry-cantrell
 
-I can easily be reached through there, or via hencan.1997@gmail.com. Open to any and all employment/internship opportunities.
+My email is: hencan.1997@gmail.com and I am currently open to any and all internship or employment opportunities.
 
-Also open to collaborative projects if anyone shows interest. Reach out via the above methods (email/linkedin) and I'll happily consider your proposal if I have the time or interest.
+I consider the pins below to be a project portfolio showcasing both my coding interests and abilities. Feel free to take a look!
 
 <!---
 Henry-Cantrell/Henry-Cantrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

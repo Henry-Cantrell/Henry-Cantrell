@@ -12,7 +12,7 @@ My interests within the field include web development and also expanding my know
 always thinking of new stuff to work on, or upgrades I can make to older projects. Learning best practices for a new tool or a unique, better way to do something
 I thought I already knew how to do never fails to make that 'lightbulb' light up in my brain.
 
-My LinkedIn can be found here: https://www.linkedin.com/in/henry-cantrell
+My LinkedIn is: https://www.linkedin.com/in/henry-cantrell
 
 My email is: hencan.1997@gmail.com and I am currently open to any and all internship or employment opportunities.
 

@@ -16,7 +16,7 @@ My LinkedIn is: https://www.linkedin.com/in/henry-cantrell
 
 My email is: hencan.1997@gmail.com and I am currently open to any and all internship or employment opportunities.
 
-I consider the pins below to be a project portfolio showcasing both my coding interests and abilities. Feel free to take a look!
+I consider the pins below to be a project portfolio showcasing my coding interests and abilities. Feel free to take a look!
 
 <!---
 Henry-Cantrell/Henry-Cantrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

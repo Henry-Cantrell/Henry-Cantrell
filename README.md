@@ -1,4 +1,4 @@
-Hi, my name is Henry Cantrell. I'm also a computer science student at the University of North Georgia, with an intended graduation date around 12/2022. 
+Hi, my name is Henry Cantrell. I'm currently a computer science student at the University of North Georgia, with an intended graduation date of 12/2022. 
 
 I also consider myself a web development enthusiast and an aspiring professional in that field! My current skills, as reflected in my project experience, are in:
 

@@ -1,4 +1,4 @@
-Hi, my name is Henry Cantrell. I'm an associate software developer at Codemettle. I'm also a Computer Science student at the University of North Georgia, with an intended graduation date of 12/2022. 
+Hi, my name is Henry Cantrell. I'm an associate software developer at Codemettle. I'm also a Computer Science student at the University of North Georgia, with an intended graduation date of 8/2023. 
 
 I also consider myself a web development enthusiast and an aspiring professional in that field! My current skills are in:
 

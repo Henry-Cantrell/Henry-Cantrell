@@ -7,7 +7,7 @@ I also consider myself a web development enthusiast and an aspiring professional
 + CSS/HTML
 + Ruby/Rails
 
-Computer science and software development have proven to be activities that I have a strong passion for. My interests within the field include web development and also expanding my knowledge by doing fun projects and networking with interesting people! I'malways thinking of new stuff to work on, or upgrades I can make to older projects. Learning best practices for a new tool or a unique, better way to do something I thought I already knew how to do never fails to make that 'lightbulb' light up in my brain.
+Computer science and software development have proven to be activities that I have a strong passion for. My interests within the field include web development and also expanding my knowledge by doing fun projects and networking with interesting people! I'm always thinking of new stuff to work on, or upgrades I can make to older projects. Learning best practices for a new tool or a unique, better way to do something I thought I already knew how to do never fails to make that 'lightbulb' light up in my brain.
 
 My LinkedIn is: https://www.linkedin.com/in/henry-cantrell
 
